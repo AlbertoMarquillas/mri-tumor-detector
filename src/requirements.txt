@@ -1,0 +1,10 @@
+streamlit
+Pillow
+numpy
+torch
+torchvision
+opencv-python-headless
+matplotlib
+plotly
+PyYAML
+detectron2 @ git+https://github.com/facebookresearch/detectron2.git
